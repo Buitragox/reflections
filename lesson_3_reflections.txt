@@ -23,7 +23,8 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+	I would be sending compressed files to send my proyect to others but it would
+	harder to identify which changes were made in the proyect.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
